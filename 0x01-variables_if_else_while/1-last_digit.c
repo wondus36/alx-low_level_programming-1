@@ -3,8 +3,8 @@
 #include <time.h>
 /**
  * main - Entry point
- * Description: assigns a random number to the variable each time it is executed
- * return: 0
+ * Description: checks on the last digit of the assigned var
+ * return: Always 0 (success) 
  */
 int main(void)
 {
