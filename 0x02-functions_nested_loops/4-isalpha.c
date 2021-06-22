@@ -16,7 +16,7 @@ for (a = 'a'; a <= 'z'; a++)
 {
 for (A = 'A'; A <= 'A'; A++)
 {
-if (a == c || A == c)
+if (c == a || c == A)
 {
 return (1);
 }
