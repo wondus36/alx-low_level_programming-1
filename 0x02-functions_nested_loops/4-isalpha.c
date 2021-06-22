@@ -9,18 +9,16 @@
 
 int _isalpha(int c)
 {
-int a = 'a';
-int A = 'A';
-
-for (a = 'a'; a <= 'z'; a++)
-{
-for (A = 'A'; A <= 'A'; A++)
-{
-if (c == a || c == A)
-{
-return (1);
-}
-}
-}
-return (0);
+	if (c >= 'a' && c <= 'z')
+	{
+	return (1);
+	}
+	else if (c >= 'A' && c <= 'Z')
+	{
+		return (1);
+	}
+	else
+	{
+		return (0);
+	}
 }
