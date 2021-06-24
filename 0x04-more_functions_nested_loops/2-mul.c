@@ -5,7 +5,7 @@
  * @a: variable
  * @b: variable
  *
- * Return: c
+ * Return: a * b
  */
 
 int mul(int a, int b)
