@@ -2,7 +2,7 @@
 
 /**
  * mul(int a, int b) - gives the product of a and b
- * @a: varible
+ * @a: variable
  * @b: variable
  *
  * Return: c
