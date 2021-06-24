@@ -1,5 +1,4 @@
 #include <stdio.h>
-#include <math.h>
 
 /**
  * main - prime numbers
@@ -22,6 +21,6 @@ int main(void)
 		}
 		divisor += 1;
 	}
-	printf("%ld\n", larg_prim);	
+	printf("%ld\n", larg_prim);
 	return (0);
 }
