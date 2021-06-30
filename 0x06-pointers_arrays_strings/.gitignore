@@ -6,3 +6,5 @@
 [._]ss[a-gi-z]
 [._]sw[a-p]
 
+# exclude this file itself
+.gitignore
