@@ -8,3 +8,7 @@
 
 # exclude this file itself
 .gitignore
+
+# the .exe files
+0-strcat
+1-strncat
