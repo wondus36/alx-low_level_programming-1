@@ -1,15 +1,14 @@
-#0x12. C - Singly linked lists
+# 0x12. C - Singly linked lists
 #
 >A linked list is a linear collection of data elements whose order is not given by their physical placement in memory. Instead, each element points to the next. It is a data structure consisting of a collection of nodes which together represent a sequence. In its most basic form, each node contains: data, and a reference (in other words, a link) to the next node in the sequence.
 #
 >Singly linked lists contain nodes which have a data field as well as 'next' field, which points to the next node in line of nodes. Operations that can be performed on singly linked lists include insertion, deletion and traversal.
 
-####In this project, I practiced building and using singly linked lists
-in C while learning when and why to use linked lists versus arrays.
+#### In this project, I practiced building and using singly linked lists in C while learning when and why to use linked lists versus arrays.
 
 ## Test_Files :heavy_check_mark:
 
-* [tests](./Test_Files): Folder of test files. Provided by Holberton School.
+* [Test_Files](./Test_Files): Folder of test files. Provided by Holberton School.
 
 ## Header File :file_folder:
 
@@ -62,6 +61,7 @@ types and functions written for the project.
   that prints `Hello, Holberton` followed by a new line using only the
   `printf` function witout interrupts.
 ---
-Author: Firdaus H. Salim
-Date: Thursday 29th July 2021
+**Author: Firdaus H. Salim**
+#
+**Date: Thursday 29th July 2021**
 
