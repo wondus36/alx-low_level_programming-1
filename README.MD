@@ -23,7 +23,7 @@ working in the C language. I update this repo with my learning progresses with h
 * [0x0F. C - Function pointers](./0x0E-function_pointers)
 * [0x10. C - Variadic functions](./0x0F-variadic_functions)
 * [0x11. C - printf](https://github.com/Faitholo/printf)
-* [0x12. C - Singly linked lists](./0x11-singly_linked_lists)
+* [0x12. C - Singly linked lists](./0x12-singly_linked_lists)
 
 ***
 - more projects are coming soon!!
