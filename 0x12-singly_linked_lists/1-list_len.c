@@ -1,6 +1,6 @@
-/*
+/**
 * File: 1-list_len.c
-8 Auth: Firdaus H. Salim
+* Auth: Firdaus H. Salim
 */
 
 #include "lists.h"
@@ -9,6 +9,7 @@
  * list_len - Finds the number of elements in
  *            a linked list_t list.
  * @h: The linked list_t list.
+ * @elements: a counter var for size_t (nodes)
  *
  * Return: The number of elements in h.
  */
