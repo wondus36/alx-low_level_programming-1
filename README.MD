@@ -38,5 +38,5 @@ working in the C language. I update this repo with my learning progresses with h
 ---
 
 ## WARNING!!
-- This repo is done as a school assignment. Beware of copying my responses. I recommend you  to read resources and come up with your own solutions instead. Feel free to reach out to me for help!
-- This repo may conatin some errors. If you notice any, please add a pull request.
+- This repo is done as a school assignment. Beware of copying my responses. I recommend you  to read resources and come up with your own solutions instead. Feel free to reach out for help!
+- This repo may contain some errors. If you notice any, please add a pull request.
