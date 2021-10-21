@@ -1,8 +1,3 @@
-/*
- * File: 4-free_list.c
- * Auth: Firdaus H. Salim
- */
-
 #include "lists.h"
 #include <stdlib.h>
 

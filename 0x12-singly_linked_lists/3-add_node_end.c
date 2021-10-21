@@ -1,8 +1,3 @@
-/*
- * File: 3-add_node_end.c
- * Auth: Firdaus H. Salim
- */
-
 #include "lists.h"
 #include <string.h>
 

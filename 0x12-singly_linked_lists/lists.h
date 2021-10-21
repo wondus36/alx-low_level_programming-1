@@ -2,8 +2,6 @@
 #define LISTS_H
 
 /*
-* File: lists.h
-* Auth: Firdaus H. Salim
 * Desc: header file containinf prototypes and definitions
 *	for all functions and types written in this proj
 */

@@ -1,8 +1,3 @@
-/*
- * File: 100-first.c
- * Auth: Firdaus H. Salim
- */
-
 #include <stdio.h>
 
 void __attribute__((constructor)) hare(void);
